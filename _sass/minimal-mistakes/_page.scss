@@ -182,8 +182,8 @@ body {
   @include clearfix;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  -webkit-animation-delay: 0.25s;
-  animation-delay: 0.25s;
+  -webkit-animation-delay: 1s;
+  animation-delay: 1s;
 
   &--overlay {
     position: relative;
@@ -195,8 +195,8 @@ body {
     background-position: center;
     -webkit-animation: $intro-transition;
     animation: $intro-transition;
-    -webkit-animation-delay: 0.25s;
-    animation-delay: 0.25s;
+    -webkit-animation-delay: 1s;
+    animation-delay: 1s;
 
     a {
       color: #fff;
@@ -215,8 +215,9 @@ body {
     .page__meta,
     .page__lead,
     .btn {
-      color: #fff;
-      text-shadow: 1px 1px 4px rgba(#000, 0.5);
+      color: rgb(255, 255, 255);
+      text-shadow: 2px 2px 4px rgba(#000, 0.5);
+      line-height: 130%;
     }
 
     .page__lead {
