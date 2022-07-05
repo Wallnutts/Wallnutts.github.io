@@ -13,6 +13,13 @@ header:
       url: "https://unsplash.com"
     - label: "More Info"
       url: "https://unsplash.com"
+#sidebar:
+#  - title: "Title"
+#    image: http://placehold.it/350x250
+#    image_alt: "image"
+#    text: "Some text here."
+#  - title: "Another Title"
+#    text: "More text here."
 ---
 
 # LOREM IPSUM
