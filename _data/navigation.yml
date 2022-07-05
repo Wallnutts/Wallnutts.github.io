@@ -4,9 +4,9 @@ main:
     url: /GameBoyMiniESP32/
   - title: "Retrotube TV"
     url: /RetroTubeTV/
+  - title: "All Projects"
+    url: /projects/    
   - title: "Photography"
     url: /Photos/
-  - title: "All Projects"
-    url: /projects/
-  - title: "About Me"
-    url: /About/
+  - title: "Find me here too"
+    url: /links/
