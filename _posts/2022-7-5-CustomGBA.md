@@ -13,6 +13,7 @@ header:
       url: "https://unsplash.com"
     - label: "More Info"
       url: "https://unsplash.com"
+teaser_image_path: /assets/images/teaser/mainteaser.jpg
 #sidebar:
 #  - title: "Title"
 #    image: http://placehold.it/350x250

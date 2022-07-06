@@ -1,0 +1,55 @@
+<div class="feature__wrapper">
+  <div class="feature__item--center">
+    <div class="archive__item">
+      <div class="archive__item-body">
+          <div class="archive__item-excerpt">
+            <p style="color:rgb(255, 255, 255);font-size:20px;">Recent Posts:<br><br></p>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="feature__wrapper">
+
+  {% for f in site.posts limit:3 %}
+
+    {% if f.url contains "://" %}
+      {% capture f_url %}{{ f.url }}{% endcapture %}
+    {% else %}
+      {% capture f_url %}{{ f.url | absolute_url }}{% endcapture %}
+    {% endif %}
+
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item"><a href="{{ f_url }}">
+        {% if f.date %}
+          <div class="archive__item-date"><i><time style="color:rgb(124, 124, 124);font-size:20px;" datetime="{{ f.date | date_to_xmlschema }}">{{ f.date | date: "%B %d, %Y" }}</time></i></div>
+        {% endif %}
+        {% if f.teaser_image_path %}
+          <div class="archive__item-teaser">
+              <img src=
+                {% if f.teaser_image_path contains "://" %}
+                  "{{ f.teaser_image_path }}"
+                {% else %}
+                  "{{ f.teaser_image_path | absolute_url }}"
+                {% endif %}
+              alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title | markdownify | strip_html | truncatewords: 10 }}</h2>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              <p style="color:rgb(124, 124, 124);font-size:20px;">{{ f.excerpt | markdownify | strip_html | truncate: 300 }}</p>
+            </div>
+          {% endif %}
+        </div>
+      </a></div>
+    </div>
+  {% endfor %}
+
+</div>
