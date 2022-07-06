@@ -8,5 +8,7 @@ main:
     url: /projects/    
   - title: "Photography"
     url: /Photos/
+  - title: "Work"
+    url: /work/
   - title: "Find me here too"
     url: /links/
