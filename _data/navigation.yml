@@ -1,14 +1,10 @@
 # main links
 main:
-  - title: "Gameboy Mini ESP"
-    url: /GameBoyMiniESP32/
-  - title: "Retrotube TV"
-    url: /RetroTubeTV/
   - title: "All Projects"
     url: /projects/    
-  - title: "Photography"
-    url: /Photos/
   - title: "Work"
     url: /work/
+  - title: "Photography"
+    url: /Photos/
   - title: "Find me here too"
     url: /links/

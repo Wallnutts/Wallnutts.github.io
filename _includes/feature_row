@@ -23,6 +23,10 @@
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}
+          
+          {% if f.gap %}
+            <p class="archive__item-title">{{ f.gap }}</p>
+          {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">

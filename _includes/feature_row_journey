@@ -1,0 +1,26 @@
+<div class="feature__wrapper">
+
+  <div class="feature__item--left">
+    <div class="archive__item-title">
+      <center><b style="color:rgb(255, 255, 255);">My Journey</b></center>
+    </div>
+  </div>
+  <div class="row">
+    <div class="column" style="">
+      <h2>Singapore Polytechnic</h2>
+      <i>2019 ~ 2022</i>
+      <p>Diploma in Electrical and Electronic Engineering</p>
+      <p>Continued as Research Staff for AI Leaf Detection and IOT Urban Farming</p>
+    </div>
+    <div class="column" style="">
+      <h2>Singapore Indoor Farms</h2>
+      <i>2022</i>
+      <p>Developed automated IOT farming systems</p>
+    </div>
+    <div class="column" style="">
+      <h2>Upcoming</h2>
+      <i>2024 Onwards</i>
+      <p>Degree in Electrical and Electronic Engineering in National University of Singapore</p>
+    </div>
+  </div>
+</div>
