@@ -3,8 +3,7 @@ title: Prior Work
 author_profile: true
 layout: single
 toc: true
-toc_label: "My Table of Contents"
-toc_icon: "cog"
+toc_label: "Timeline"
 classes:
   - landing
   - dark-theme
@@ -45,5 +44,7 @@ Anyways, my submission was accepted and even got showcased in their 75th volume 
 Virtually Maker Faire 2020 [Electric Pennyboard](https://makeprojects.com/project/31596?postID=52657&commentID=49326&utm_source=email_comment_other).
 
 ![](/assets/images/work/magazine.jpg) | ![](/assets/images/work/page.jpg)
+
+
 
 
