@@ -1,14 +1,17 @@
 ---
 title: Photos
-layout: single
+layout: splash
 permalink: /Photos/
 ---
 
-# LOREM IPSUM
-## LOREM IPSUM
+# <br> Photo Gallery
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I managed to obtain two Japan imported Gameboy Cameras. Combining them with a DIY ESP32 Gameboy Printer Emulator, I managed to pull out some of these images! Do enjoy these 0.014-megapixel 2bit images i took. Below them are various photos of my projects over the years.
 
-## LOREM IPSUM
+{% include image_gallery.html folder="/assets/images/photography" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+___
+
+{% include image_gallery.html folder="/assets/images/projectphotos" %}
+
+
