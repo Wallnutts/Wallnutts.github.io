@@ -3,15 +3,14 @@ title: Photos
 layout: splash
 permalink: /Photos/
 ---
+# <br>
+# <center> Photo Gallery </center>
 
-# <br> Photo Gallery
 
-I managed to obtain two Japan imported Gameboy Cameras. Combining them with a DIY ESP32 Gameboy Printer Emulator, I managed to pull out some of these images! Do enjoy these 0.014-megapixel 2-bit images i took. Below them is a photodump of my projects over the years.
-
-{% include image_gallery.html folder="/assets/images/photography" %}
+{% include image_gallery.html folder="/assets/images/photography/gbcamera" %}
 
 ___
 
-{% include image_gallery.html folder="/assets/images/projectphotos" %}
+{% include image_gallery.html folder="/assets/images/photography/projectphotos" %}
 
 
