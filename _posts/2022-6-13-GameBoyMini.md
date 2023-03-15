@@ -1,6 +1,6 @@
 ---
 title: GameBoy Mini
-excerpt: "Featuring over 30 hours of battery life and powered by an ESP32, this is my take on the bridge between the Gameboy and the Gameboy Micro."
+excerpt: "Nifty little console powered by an ESP32 with over 30 hours of battery life"
 header:
   teaser: /assets/images/postphotos/GBESP32/cover.jpg
   #overlay_color: "#333"
