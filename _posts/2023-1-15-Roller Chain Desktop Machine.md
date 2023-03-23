@@ -2,7 +2,7 @@
 title: Desktop Machine with Roller Chain
 excerpt: "Motorized randomness"
 header:
-  teaser: /assets/images/postphotos/rollerchain/demo.gif
+  teaser: /assets/images/postphotos/rollerchain/demo3.gif
   #overlay_color: "#333"
   overlay_image: /assets/images/postphotos/rollerchain/demo.gif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
