@@ -35,7 +35,7 @@ ___
 ### Virtually Maker Faire 2020
 
 <br>
-I have been a pretty longtime fan of the MAKE: organisation and its yearly Maker Faire in various countries. Theres a yearly one here in Singapore called the Mini Maker Faire I have visited religously every year up till it was cancelled during the COVID-19 period. I was pretty disapointed and thats when I saw this event going on and decided to push a submission!
+I have been a pretty longtime fan of the MAKE: organisation and its yearly Maker Faire in various countries. There used to be a yearly one here in Singapore called the Mini Maker Faire that I have visited religously every year up till it was cancelled during the COVID-19 period. I was pretty disapointed and thats when I saw this event going on and decided to push a submission!
 
 I was pretty obsessed with electric last-mile vehicles at the time (E-skateboards, PMDS, Onewheel etc.) so i decided to make my own! This is like the 4th or 5th iteration of various boards I made. The main goals was portability henceforth, a pennyboard form factor was decided. You can read a further writeup [here](/ElectricPennyboard/)
 
