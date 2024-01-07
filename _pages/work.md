@@ -3,6 +3,7 @@ title: Prior Work
 author_profile: true
 layout: single
 toc: true
+toc_sticky: true
 toc_label: "Timeline"
 classes:
   - landing
