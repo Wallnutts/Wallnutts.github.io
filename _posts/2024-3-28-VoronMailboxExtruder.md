@@ -1,6 +1,6 @@
 ---
-title: Voron V0 Mailbox Extruder
-excerpt: "Voron V0 extruder with superior part cooling fan"
+title: Buildlog - Voron V0 Mailbox Extruder
+excerpt: "Upgrading my Voron V0 extruder with a superior part cooling fan"
 header:
   teaser: /assets/images/postphotos/modified_mailbox_extruder/cover.jpg
   #overlay_color: "#333"
@@ -15,7 +15,7 @@ header:
     - label: "Original Creator - Roundhouse Extruder"
       url: "https://github.com/chirpy2605/voron/tree/main/V0/Mailbox"
     - label: "My Remix - Roundhouse Extruder"
-      url: "https://github.com/chirpy2605/voron/tree/main/V0/Mailbox"
+      url: "https://www.printables.com/social/278875-wallnutts/models"
 teaser_image_path: /assets/images/postphotos/pressly/2.jpg #use .jpg files
 #sidebar:
 #  - title: "Title"
@@ -28,7 +28,9 @@ date: 2024-03-28
 #last_modified_at: 2021-07-07
 ---
 
-Due to size constraints, I was having part cooling problems for my Voron V0. I went through multiple extruder designs but none of them provided adequate part cooling. I found that most if not all of the 3rd party extruders use those small and thin <5mm thick blower fans that dont provide enough airflow to cool down the prints. This design that I found uses a pretty unique solution, where a large 5015 blower fan is gutted and retrofitted on top of the extruder with fan ducts that route the airflow to both sides. 
+Due to size constraints of the print head, I was having part cooling problems for my Voron V0. I went through multiple 3rd party extruder designs but none of them provided adequate part cooling. Most if not all of them use those small and thin <5mm thick blower fans that dont provide enough airflow to cool down the prints.
+
+This design that I found from chirpy2605 uses a pretty unique solution, where a large 5015 blower fan is gutted and retrofitted on top of the extruder with fan ducts that route the airflow to both sides.  
 
 ![](/assets/images/postphotos/modified_mailbox_extruder/blowerfancut.jpg "Blower Fan")
 
@@ -36,11 +38,11 @@ I had to cut around the shell of the 5015 blower fan which was surprisingly easy
 
 ![](/assets/images/postphotos/modified_mailbox_extruder/extruder.jpg "Roundhouse Extruder")
 
-For the extruder I used the "Roundhouse Extruder" that the creator reccomended. I was impressed by how well it was designed with how easy it was to print and assemble. However, I slightly edited the 3D model so that the PTFE tubing friction fits into the opening as I didnt want to use a PTFE coupler. I also made the extruder arm larger for more strength. 
+For the extruder I used the "Roundhouse Extruder" that the creator reccomended. I was impressed by how well it was designed with how easy it was to print and assemble. However, I did slightly edit the 3D model so that the PTFE tubing friction fits into the opening as I didnt want to use a PTFE coupler. I also made the extruder arm larger for more strength. 
 
 ![](/assets/images/postphotos/modified_mailbox_extruder/extrudercloseup.jpg "Roundhouse Extruder")
 
-Hopefully I plan to remix this extruder setup even further with LED lights, a nozzle camera and perhaps a 4010 heatbreak fan instead of the loud 3010 one.
+I really like this design and I plan to remix this extruder setup even further with LED lights, a nozzle camera and perhaps a 4010 heatbreak fan instead of the loud 3010 one.
 
 
 
