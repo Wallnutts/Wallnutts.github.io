@@ -25,7 +25,7 @@ date: 2024-06-09
 ---
 # Introduction
 
-![](/assets/images/postphotos/gpdwinminicase/frontclosed.jpg "Front View") | ![](/assets/images/postphotos/gpdwinminicase/back1.jpg "Back View")
+![](/assets/images/postphotos/gpdwinminicase/grips.jpg "Front View") | ![](/assets/images/postphotos/gpdwinminicase/gripsback.jpg "Back View")
 
 ![](/assets/images/postphotos/gpdwinminicase/frontopen.jpg "Front View")
 
@@ -33,11 +33,15 @@ Problaby the first ever 3D printed GPD Win Mini case available! Comes with detac
 
 I didnt really like the smooth surface that my glass print bed imparted on the surface of the shell, hence I vinyl wrapped both surfaces with leather wrap for a nicer finish. Thats where the leather texture you can see in the pictures comes from!
 
+![](/assets/images/postphotos/gpdwinminicase/frontclosed.jpg "Front View") | ![](/assets/images/postphotos/gpdwinminicase/back2.jpg "Back View")
+
 # Instructions
 
 Top half of the case is stuck on with 1mm thick VHB tape, while bottom half is attached on with both VHB tape and M2 screws.
 
 ![](/assets/images/postphotos/gpdwinminicase/VHB.jpg "VHB locations")
+
+Grips are attached on using M3 bolts screwed to heat inserts. Currently not the best way as its not very removable but ill leave it as such for now.
 
 ## Fuzzy Skin Tutorial
 
